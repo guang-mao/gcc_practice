@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/go.dir/visual_exam.cpp.o  -o go -rdynamic 

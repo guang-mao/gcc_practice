@@ -1,0 +1,3 @@
+/home/ball/virtual_exam/CMakeFiles/edit_cache.dir
+/home/ball/virtual_exam/CMakeFiles/rebuild_cache.dir
+/home/ball/virtual_exam/CMakeFiles/go.dir
