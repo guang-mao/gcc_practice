@@ -1,0 +1,2 @@
+image_recog
+-DCATKIN_DEVEL_PREFIX=/home/ball/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ball/catkin_ws/install -G Unix Makefiles
