@@ -1,8 +1,0 @@
-prefix=/home/ball/catkin_ws/devel
-
-Name: image_recog
-Description: Description of image_recog
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/ball/catkin_ws/devel/lib 
-Requires: 
