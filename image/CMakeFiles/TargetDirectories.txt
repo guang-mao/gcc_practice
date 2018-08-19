@@ -1,0 +1,4 @@
+/home/ball/image/CMakeFiles/edit_cache.dir
+/home/ball/image/CMakeFiles/rebuild_cache.dir
+/home/ball/image/CMakeFiles/test.dir
+/home/ball/image/CMakeFiles/image.dir
